@@ -1,2 +1,2 @@
 # HDLBits-Solutions
-My Solutions to the Problems on hdlbits.01xz.net
+My Solutions to the Problems on [HDLBits](hdlbits.01xz.net)
